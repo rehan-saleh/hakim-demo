@@ -1,0 +1,22 @@
+Site photos (*.webp in this folder), free under the Unsplash License (https://unsplash.com/license).
+Downloaded 2026-10-28, resized to WebP. Not photos of Hakim Piscines et Spas work.
+
+modern-seating.webp  https://unsplash.com/photos/_ELoYrhi3ao
+house-deck.webp      https://unsplash.com/photos/8iDJxbmx2Bc
+pergola.webp         https://unsplash.com/photos/0N0hFVtwqIY
+water-sun.webp       https://unsplash.com/photos/1SgnwcLLnY8
+modern-lawn.webp     https://unsplash.com/photos/ylzGfY-xzBY
+pool-ladder.webp     https://unsplash.com/photos/GgDMw4FLZPI
+spa-garden.webp      https://unsplash.com/photos/5uq6nHOYRfw
+
+Product sample photos (products/prN.webp), cropped to 4:3; brand label blurred on pr1, pr3, pr5.
+Not photos of the actual products sold. Unsplash License / Pixabay Content License (both free, no attribution required).
+pr1, pr3, pr5  https://pixabay.com/photos/pump-pool-filter-water-pump-pool-318331/
+pr2            https://pixabay.com/photos/pool-pump-filtration-de-filter-1283648/
+pr4, pr6       https://unsplash.com/photos/WW1OiuG9aPY
+pr7            https://unsplash.com/photos/uo7xJIV4Awk
+pr8            https://unsplash.com/photos/AypaEmWVH8I
+pr9            https://unsplash.com/photos/d9ZKZAglC1Q
+pr10           https://unsplash.com/photos/z183EqFxuTw
+pr11           https://unsplash.com/photos/y_36fBsC7GI
+pr12           https://pixabay.com/photos/swimming-pool-thermometer-temperature-1605907/
